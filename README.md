@@ -2,6 +2,10 @@
 # Title of Project
 
 ## Air Passenger Forecasting Project
+
+![dataset-cover](https://user-images.githubusercontent.com/114376944/216778754-1d175c1c-33ef-4551-b343-aced34ba1e0e.jpg)
+
+
 ## Introduction
 This project is aimed at forecasting the number of air passengers in the future using time series analysis. The project uses two popular time series forecasting models: ARIMA (AutoRegressive Integrated Moving Average) and SARIMAX (Seasonal ARIMA) as well as Facebook's Prophet model. The data used in the project consists of monthly passenger numbers for a period of several years.
 
@@ -12,6 +16,7 @@ The data used in this project consists of monthly passenger numbers for a period
 
 - Month: The date of the observation in the format YYYY-MM.
 - Passengers: The number of passengers in thousands.
+
 The data is representative of a real-world scenario and contains seasonal patterns, trends, and fluctuations that are typical in air passenger numbers. The goal of the project is to use time series analysis and machine learning models to forecast the number of air passengers in the future.
 
 The data set is downloaded from kaggle.
