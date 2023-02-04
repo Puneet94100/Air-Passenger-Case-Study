@@ -30,12 +30,12 @@ https://www.kaggle.com/datasets/chirag19/air-passengers
 ## Prerequisites
 The following packages and libraries are required to run this project:
 
-Python 3.x
-Pandas
-Numpy
-Matplotlib
-Statsmodels
-FBProphet
+- Python 3.x
+- Pandas
+- Numpy
+- Matplotlib
+- Statsmodels
+- FBProphet
 
 
 
